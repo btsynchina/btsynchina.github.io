@@ -1,6 +1,6 @@
 # BTSynChina.com 中文资源分享
 
-[客户端下载地址](https://github.com/HelloZeroNet/ZeroNet#user-content-how-to-join)
+[ZeroNet零网客户端下载地址](https://github.com/HelloZeroNet/ZeroNet#user-content-how-to-join)
 
 安装客户端后访问 http://127.0.0.1:43110/btsynchina.bit
 
