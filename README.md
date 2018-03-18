@@ -6,12 +6,12 @@
 
 现已实现三平台四群组，同步聊天！
 
-[电报群 Telegram BTSynChina https://t.me/btsynchina](https://t.me/btsynchina)
+[Telegram电报群搜索BTSynChina或者点击此链接https://t.me/btsynchina](https://t.me/btsynchina)
 
-[电报群 Telegram RetroShare https://t.me/cnretroshare](https://t.me/cnretroshare)
+[Telegram电报群搜索RetroShare或者点击此链接https://t.me/cnretroshare](https://t.me/cnretroshare)
 
-[Riot BTSynChina https://matrix.to/#/#btsynchina:matrix.org](https://matrix.to/#/#btsynchina:matrix.org)
+[Riot搜索BTSynChina或者点击此链接https://matrix.to/#/#btsynchina:matrix.org](https://matrix.to/#/#btsynchina:matrix.org)
 
-[Riot RetorShare https://matrix.to/#/#cnretroshare:matrix.org](https://matrix.to/#/#cnretroshare:matrix.org)
+[Riot搜索RetorShare或者点击此链接https://matrix.to/#/#cnretroshare:matrix.org](https://matrix.to/#/#cnretroshare:matrix.org)
 
 [RetroShare零网中文群](http://127.0.0.1:43110/btsynchina.bit/?Topic:92_1NVmy7v2J1aQEgja6HDSeDM8VaADP9zkpu/)
