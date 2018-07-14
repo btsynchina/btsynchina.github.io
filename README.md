@@ -1,6 +1,6 @@
 # BTSynChina.com 中文资源分享
 
-[ZeroNet零网主页 http://127.0.0.1:43110/btsynchina.bit]
+ZeroNet零网主页 http://127.0.0.1:43110/btsynchina.bit
 
 [Telegram电报聊天群 https://t.me/btsynchina](https://t.me/btsynchina)
 
