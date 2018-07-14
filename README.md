@@ -1,10 +1,10 @@
 # BTSynChina.com 中文资源分享
 
-ZeroNet零网主页 http://127.0.0.1:43110/btsynchina.bit
+>ZeroNet零网主页 http://127.0.0.1:43110/btsynchina.bit
 
-[Telegram电报聊天群 https://t.me/btsynchina](https://t.me/btsynchina)
+>[Telegram电报聊天群 https://t.me/btsynchina](https://t.me/btsynchina)
 
-[Telegram电报通知群 https://t.me/btsynchinese](https://t.me/btsynchinese)
+>[Telegram电报通知群 https://t.me/btsynchinese](https://t.me/btsynchinese)
 
 
 - NHK.纪录片 BPOCPRP5TYBYBJDJXHMOZNCHC4QYLANTS
